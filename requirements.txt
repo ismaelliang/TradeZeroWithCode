@@ -1,0 +1,2 @@
+pynput==1.6.8
+clipboard==0.0.4
